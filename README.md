@@ -1,4 +1,4 @@
-# Youreka-Group-9-s-Statistics
+# Youreka-Group-9-CODE-For Statistical Approach
 
 We used the computer language R and the IDE RStudio to run tests, calculate means and medians, filter data, and assess variance, along with Excel to manage and alter the datasets. 
 The datasets primarily used to find the correlation of socioeconomic factors included the rotavirus vaccination rates (% of individuals with the rotavirus vaccines within each country), rotavirus mortality rates (rotavirus mortality rates per one-hundred thousand individuals in each country), healthcare spending expenditure (% of GDP spent on government-funded healthcare within each country), HDI (a number between 0.000 - 1.000, assessing success within a country in core elements of human development), and lastly, GNI per capita (international dollars using PPP rates defining an economy’s generated profit). And of course, the primary focus of the study was kept on the Sub-Saharan-African region, and therefore, the datasets were exclusive to only twenty-four countries. 
